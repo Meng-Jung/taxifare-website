@@ -26,8 +26,8 @@ passenger_count = st.text_input('passenger_count', '2')
 
 
 
-url = 'https://taxifare-119857604399.europe-west1.run.app/predict'
-#url = 'https://taxifare.lewagon.ai/predict'
+#url = 'https://taxifare-119857604399.europe-west1.run.app/predict'
+url = 'https://taxifare.lewagon.ai/predict'
 
 if url == 'https://taxifare.lewagon.ai/predict':
 
